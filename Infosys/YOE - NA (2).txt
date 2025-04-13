@@ -1,0 +1,25 @@
+1. Introduction 
+2. Current Company project related questions
+3. What task and activities do you do on daily basis
+4. What is Prometheus, Grafana, Loki
+5. What is Kibana 
+6. How does Prometheus collect metrics
+7. How is Prometheus setup
+8. How is Kibana set up
+9. What is log rotate job and how does it work
+10. What is Jenkins, Ansible 
+11. What is Terraform and how do you use terraform in your project and what all resources have you provisioned 
+12. What are deployments, daemonset, statefulsets
+13. Basic Kuberntes commands
+14. What is Docker and how do you use in your project, Any docker file you have written
+15. What are data sources for Grafana, Kibana
+16. How is traffic routed inside kuberntes clusters
+17. ELB, Ingress questions 
+18. How do you receive alerts in your project and how is it setup
+19. What is pod
+20. What are indices, index in Kibana
+21. Cronjobs
+22. Paas Questions 
+23. How do you handle disk, CPU alerts 
+24. What all Kuberntes issues you have worked on
+25. If any pod/node goes down how do you troubleshoot/monitor that( via cluster and other monitoring tools)
