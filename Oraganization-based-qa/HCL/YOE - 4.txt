@@ -1,0 +1,20 @@
+1. what is diff between pv and pvc 
+2. Expalin kuberenets arthciecture 
+3. what is diff between deployment and statefullset 
+4. what is calico 
+5. what is etcd 
+6. how to take backup of kubenretes cluster 
+7. how to upgrade eks cluster 
+8. what is rolling update 
+9. what is deployment statgergy you are using 
+10. can we run 1 conatiner with 2 pods 
+11. what is statefullset 
+12. terraform have you build the vm 
+13. what is ingress controller 
+14. Supoose you have taked etcd backup and old vm corrupted ,can we create new vm with backup etcd ? 
+15. what are steps to upgrade eks cluster 
+16. Suppose you have in stateful 3 pods which having name mongo-0 , mongo-1, mongo-2 what happen if mongo-0 dies when new pod will create what will be pod new name ? 
+17. have you worked on argo cd , helm 
+18. suppose we have pods 2 running in rolling updates some are in deployments set and some pods are in statefull set , how rolling updates strategy will work here ? 
+19. what is docker multisatge , why it is used 
+grafana have you worked
