@@ -1,0 +1,60 @@
+
+Interview questions Scenario based
+
+1)You have one base server and one database so AWS platform from scratch how will you deploy the application and security permissions
+
+2) what are all the storage classes of S3?
+
+3) how will work eks can you explain about kubernets?
+
+4) what are the types of load balancer?
+
+5)what scripting  languages work with you in the project?
+
+6) what kind of task based on shell scripting you did?
+
+7) I have my github repository I want to with clone with remote local desktop, i want to do some changes and push-up to the github repository how will you do that?
+
+8) what is the ELK stack?
+
+9) tell me your challenges and where did you do trouble shooting in your project?
+
+10) can you explain about cicd pipeline and to end Jenkins explain me?
+
+11) what is module in terraform?
+
+12) what is backend in terraform?
+
+13) why do we use State files?
+
+14) suppose my state file get corrupted or loss they any way to recovery?
+
+15) do you know about dynamic blocks in terraform?
+
+16) how will you approach disaster recovery in terraform?
+
+17) what is terraform import?
+
+18) how will handle sensitive data in terraform?
+
+19) what is RDS?
+
+20) what is conditional statement in terraform?
+
+21) why did used to terraform import command?
+
+22) what is the terraform validate?
+
+23) can you explain about components docker file?
+
+24) supposed docker container much memory how will you handle the situation?
+
+25) what is ansible?
+
+26) in the AWS you work on any security services?
+
+27) what is vpc networks and components can you tell me about?
+
+28) what is NaCl?
+
+What is the NAT Gateway why we used?
